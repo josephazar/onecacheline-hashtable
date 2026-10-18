@@ -1,0 +1,13 @@
+# machine = cluster5  date = 2026-06-27T07:00:13Z
+Architecture :                            x86_64
+Thread(s) par cœur :                      2
+Cœur(s) par socket :                      6
+Socket(s) :                               1
+Cache L3 :                                12 MiB (1 instance)
+AVX: avx2 
+MemTotal:       65787748 kB
+available: 1 nodes (0)
+node 0 cpus: 0 1 2 3 4 5 6 7 8 9 10 11
+node 0 size: 64245 MB
+g++ = g++ (conda-forge gcc 13.4.0-19) 13.4.0
+perf_event_paranoid = 4

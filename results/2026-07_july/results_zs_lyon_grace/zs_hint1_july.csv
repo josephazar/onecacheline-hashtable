@@ -1,0 +1,17 @@
+machine,log2n,s,variant,mops,ci_lo,ci_hi
+lyon_grace,27,0.50,v4,110.7,109.5,111.2
+lyon_grace,27,0.75,v4,123.2,120.8,123.6
+lyon_grace,27,0.99,v4,149.6,148.0,150.0
+lyon_grace,27,1.25,v4,205.2,195.6,206.5
+lyon_grace,27,0.50,abseil,24.1,24.1,24.3
+lyon_grace,27,0.75,abseil,25.4,24.9,26.1
+lyon_grace,27,0.99,abseil,34.4,32.0,35.4
+lyon_grace,27,1.25,abseil,84.4,76.8,88.4
+lyon_grace,27,0.50,boost,28.5,28.0,29.0
+lyon_grace,27,0.75,boost,32.2,30.9,32.9
+lyon_grace,27,0.99,boost,46.2,44.2,47.6
+lyon_grace,27,1.25,boost,143.4,121.6,158.8
+lyon_grace,27,0.50,ankerl,26.6,26.3,27.1
+lyon_grace,27,0.75,ankerl,28.0,27.2,28.7
+lyon_grace,27,0.99,ankerl,37.4,33.9,40.0
+lyon_grace,27,1.25,ankerl,96.4,87.3,101.4

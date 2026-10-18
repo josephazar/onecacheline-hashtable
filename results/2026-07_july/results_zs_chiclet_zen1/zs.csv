@@ -1,0 +1,17 @@
+machine,log2n,s,variant,mops,ci_lo,ci_hi
+chiclet_zen1,27,0.50,v4,85.0,84.9,85.0
+chiclet_zen1,27,0.75,v4,94.0,93.8,94.1
+chiclet_zen1,27,0.99,v4,145.3,145.2,145.6
+chiclet_zen1,27,1.25,v4,180.5,180.2,180.9
+chiclet_zen1,27,0.50,abseil,29.3,29.3,29.3
+chiclet_zen1,27,0.75,abseil,29.6,29.6,29.6
+chiclet_zen1,27,0.99,abseil,33.1,33.1,33.2
+chiclet_zen1,27,1.25,abseil,65.4,65.0,65.5
+chiclet_zen1,27,0.50,boost,30.4,30.4,30.4
+chiclet_zen1,27,0.75,boost,32.8,32.7,32.8
+chiclet_zen1,27,0.99,boost,43.3,43.2,43.3
+chiclet_zen1,27,1.25,boost,98.2,98.1,98.3
+chiclet_zen1,27,0.50,ankerl,25.3,25.3,25.3
+chiclet_zen1,27,0.75,ankerl,25.7,25.7,25.7
+chiclet_zen1,27,0.99,ankerl,29.3,29.3,29.4
+chiclet_zen1,27,1.25,ankerl,46.4,46.4,46.5

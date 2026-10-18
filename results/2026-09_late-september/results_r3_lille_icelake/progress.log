@@ -1,0 +1,21 @@
+[2026-09-24 09:39:55] start lille_icelake on chirop-1.lille.grid5000.fr steps=env,prod,perf,ovf,ycsb,fs hint=pf3
+[2026-09-24 09:39:56] env report written
+[2026-09-24 09:40:03] prod_prefetch
+[2026-09-24 09:40:59]   rc=0
+[2026-09-24 09:40:59] perf_event_paranoid=3
+[2026-09-24 09:41:00]   after sudo-g5k: 1
+[2026-09-24 09:41:02] abl_perf log2n=16
+[2026-09-24 09:41:04]   rc=0 hardware counters: available
+[2026-09-24 09:41:04] abl_perf log2n=27
+[2026-09-24 09:41:23]   rc=0 hardware counters: available
+[2026-09-24 09:41:25] overflow_count
+[2026-09-24 09:41:28]   rc=0
+[2026-09-24 09:41:29] ycsb_check
+[2026-09-24 09:41:45]   rc=0
+[2026-09-24 09:41:49] featurestore recommender
+[2026-09-24 09:43:13]   rc=0
+[2026-09-24 09:43:13] featurestore iot-registry
+[2026-09-24 09:44:04]   rc=0
+[2026-09-24 09:44:04] featurestore batch-retrieval
+[2026-09-24 09:47:31]   rc=0
+[2026-09-24 09:47:31] RUN_DONE

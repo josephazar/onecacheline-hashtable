@@ -1,0 +1,8 @@
+[2026-10-06 23:12:09] start lille_zen3 on chuc-3.lille.grid5000.fr steps=env,nh,hab
+[2026-10-06 23:12:10] env report written
+[2026-10-06 23:12:14] nh build rc=0 (0 SIMD flag lines)
+[2026-10-06 23:12:14] nh_compare
+[2026-10-06 23:13:07]   rc=0 0 validation failures
+[2026-10-06 23:13:11] harness_ab
+[2026-10-06 23:14:34]   rc=0
+[2026-10-06 23:14:34] RUN_DONE

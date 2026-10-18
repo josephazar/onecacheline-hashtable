@@ -1,0 +1,6 @@
+[2026-10-06 20:08:31] start lyon_grace on hydra-1.lyon.grid5000.fr steps=env,nh
+[2026-10-06 20:08:34] env report written
+[2026-10-06 20:08:43] nh build rc=0 (0 SIMD flag lines)
+[2026-10-06 20:08:43] nh_compare
+[2026-10-06 20:09:36]   rc=0 0 validation failures
+[2026-10-06 20:09:36] RUN_DONE

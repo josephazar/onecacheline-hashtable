@@ -1,0 +1,13 @@
+machine,log2n,load,workload,variant,mops,ci_lo,ci_hi,inst_per_q,cyc_per_q
+nancy_cascadelake,27,0.35,hit,vf_v0,81.2,80.3,82.0,0.00,0.00
+nancy_cascadelake,27,0.35,miss,vf_v0,79.4,78.4,80.0,0.00,0.00
+nancy_cascadelake,27,0.35,hit,Inline,81.2,80.1,82.2,0.00,0.00
+nancy_cascadelake,27,0.35,miss,Inline,74.0,73.3,74.4,0.00,0.00
+nancy_cascadelake,27,0.50,hit,vf_v0,81.3,80.1,81.8,0.00,0.00
+nancy_cascadelake,27,0.50,miss,vf_v0,79.4,78.5,80.0,0.00,0.00
+nancy_cascadelake,27,0.50,hit,Inline,80.1,79.0,80.9,0.00,0.00
+nancy_cascadelake,27,0.50,miss,Inline,72.8,72.4,73.5,0.00,0.00
+nancy_cascadelake,27,0.70,hit,vf_v0,71.1,70.4,71.6,0.00,0.00
+nancy_cascadelake,27,0.70,miss,vf_v0,76.5,75.8,76.9,0.00,0.00
+nancy_cascadelake,27,0.70,hit,Inline,71.4,70.6,71.9,0.00,0.00
+nancy_cascadelake,27,0.70,miss,Inline,36.7,36.6,36.9,0.00,0.00

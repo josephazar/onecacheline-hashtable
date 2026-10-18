@@ -1,0 +1,21 @@
+[2026-09-24 17:32:26] start lyon_thunderx2 on pyxis-4.lyon.grid5000.fr steps=env,prod,perf,ovf,ycsb,fs hint=pf2
+[2026-09-24 17:32:28] env report written
+[2026-09-24 17:32:41] prod_prefetch
+[2026-09-24 17:34:31]   rc=0
+[2026-09-24 17:34:31] perf_event_paranoid=3
+[2026-09-24 17:34:33]   after sudo-g5k: 1
+[2026-09-24 17:34:38] abl_perf log2n=16
+[2026-09-24 17:34:41]   rc=0 hardware counters: available
+[2026-09-24 17:34:41] abl_perf log2n=27
+[2026-09-24 17:35:02]   rc=0 hardware counters: available
+[2026-09-24 17:35:05] overflow_count
+[2026-09-24 17:35:10]   rc=0
+[2026-09-24 17:35:14] ycsb_check
+[2026-09-24 17:35:45]   rc=0
+[2026-09-24 17:35:55] featurestore recommender
+[2026-09-24 17:38:50]   rc=0
+[2026-09-24 17:38:50] featurestore iot-registry
+[2026-09-24 17:40:23]   rc=0
+[2026-09-24 17:40:23] featurestore batch-retrieval
+[2026-09-24 17:47:50]   rc=0
+[2026-09-24 17:47:50] RUN_DONE

@@ -1,0 +1,7 @@
+table,workload,mops
+Chunk+AMAC,hit,15.1
+abseil,hit,14.1
+boost,hit,14.7
+Chunk+AMAC,miss,49.0
+abseil,miss,35.7
+boost,miss,34.8

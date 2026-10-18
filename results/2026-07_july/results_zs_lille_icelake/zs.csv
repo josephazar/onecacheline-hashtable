@@ -1,0 +1,17 @@
+machine,log2n,s,variant,mops,ci_lo,ci_hi
+lille_icelake,27,0.50,v4,104.9,103.8,105.2
+lille_icelake,27,0.75,v4,119.3,118.9,119.6
+lille_icelake,27,0.99,v4,166.8,165.2,167.5
+lille_icelake,27,1.25,v4,319.5,288.8,342.4
+lille_icelake,27,0.50,abseil,43.9,43.5,44.2
+lille_icelake,27,0.75,abseil,45.1,44.9,45.4
+lille_icelake,27,0.99,abseil,55.6,55.3,55.8
+lille_icelake,27,1.25,abseil,189.6,184.6,192.0
+lille_icelake,27,0.50,boost,43.3,43.2,43.4
+lille_icelake,27,0.75,boost,46.6,46.4,46.7
+lille_icelake,27,0.99,boost,64.3,64.0,64.3
+lille_icelake,27,1.25,boost,243.8,238.7,244.9
+lille_icelake,27,0.50,ankerl,39.1,38.9,39.3
+lille_icelake,27,0.75,ankerl,41.1,40.9,41.1
+lille_icelake,27,0.99,ankerl,49.9,49.6,49.9
+lille_icelake,27,1.25,ankerl,88.2,88.0,88.4

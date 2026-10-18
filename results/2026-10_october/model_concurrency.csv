@@ -1,0 +1,161 @@
+core,layout,workload,D,mops,lookups_in_flight_T_Lm,D_ref,Nm_prefetch
+Zen 3,Inline,hit,0,35.3,3.60,0,20.2
+Zen 3,Inline,hit,16,73.9,7.54,16,20.2
+Zen 3,Inline,hit,32,71.4,7.29,32,20.2
+Zen 3,Inline,hit,64,71.9,7.33,64,20.2
+Zen 3,Inline,hit,128,72.0,7.34,128,20.2
+Zen 3,Inline,miss,0,18.3,1.87,0,20.2
+Zen 3,Inline,miss,16,36.0,3.68,16,20.2
+Zen 3,Inline,miss,32,35.4,3.61,32,20.2
+Zen 3,Inline,miss,64,36.8,3.75,64,20.2
+Zen 3,Inline,miss,128,36.0,3.68,128,20.2
+Ice Lake,Inline,hit,0,47.0,4.23,0,15.7
+Ice Lake,Inline,hit,16,81.8,7.36,16,15.7
+Ice Lake,Inline,hit,32,95.9,8.63,32,15.7
+Ice Lake,Inline,hit,64,104.3,9.39,64,15.7
+Ice Lake,Inline,hit,128,101.1,9.10,128,15.7
+Ice Lake,Inline,miss,0,24.3,2.19,0,15.7
+Ice Lake,Inline,miss,16,41.6,3.75,16,15.7
+Ice Lake,Inline,miss,32,46.8,4.21,32,15.7
+Ice Lake,Inline,miss,64,51.3,4.62,64,15.7
+Ice Lake,Inline,miss,128,47.7,4.30,128,15.7
+Cascade Lake,Inline,hit,0,40.1,3.45,0,8.8
+Cascade Lake,Inline,hit,16,66.8,5.74,16,8.8
+Cascade Lake,Inline,hit,32,73.4,6.31,32,8.8
+Cascade Lake,Inline,hit,64,73.5,6.32,64,8.8
+Cascade Lake,Inline,hit,128,73.7,6.33,128,8.8
+Cascade Lake,Inline,miss,0,21.6,1.85,0,8.8
+Cascade Lake,Inline,miss,16,39.9,3.43,16,8.8
+Cascade Lake,Inline,miss,32,44.3,3.81,32,8.8
+Cascade Lake,Inline,miss,64,44.4,3.82,64,8.8
+Cascade Lake,Inline,miss,128,41.6,3.58,128,8.8
+Sapphire Rapids,Inline,hit,4,42.4,5.21,4,12.1
+Sapphire Rapids,Inline,hit,8,55.8,6.87,8,12.1
+Sapphire Rapids,Inline,hit,16,69.9,8.60,16,12.1
+Sapphire Rapids,Inline,hit,24,76.5,9.40,24,12.1
+Sapphire Rapids,Inline,hit,32,77.9,9.58,32,12.1
+Sapphire Rapids,Inline,hit,48,78.1,9.61,48,12.1
+Sapphire Rapids,Inline,hit,64,78.3,9.63,64,12.1
+Sapphire Rapids,Inline,hit,96,78.0,9.59,96,12.1
+Sapphire Rapids,Inline,hit,128,77.9,9.58,128,12.1
+Sapphire Rapids,Inline,hit,160,78.3,9.63,160,12.1
+Sapphire Rapids,Inline,hit,192,78.1,9.60,192,12.1
+Sapphire Rapids,Inline,hit,256,77.5,9.53,256,12.1
+Sapphire Rapids,Inline,hit,320,77.4,9.52,320,12.1
+Sapphire Rapids,Inline,hit,384,76.8,9.44,384,12.1
+Sapphire Rapids,Paired,hit,4,29.8,3.66,4,12.1
+Sapphire Rapids,Paired,hit,8,36.3,4.46,8,12.1
+Sapphire Rapids,Paired,hit,16,45.2,5.56,16,12.1
+Sapphire Rapids,Paired,hit,24,47.9,5.89,24,12.1
+Sapphire Rapids,Paired,hit,32,47.7,5.86,32,12.1
+Sapphire Rapids,Paired,hit,48,47.9,5.90,48,12.1
+Sapphire Rapids,Paired,hit,64,47.3,5.82,64,12.1
+Sapphire Rapids,Paired,hit,96,47.0,5.78,96,12.1
+Sapphire Rapids,Paired,hit,128,47.1,5.80,128,12.1
+Sapphire Rapids,Paired,hit,160,46.8,5.76,160,12.1
+Sapphire Rapids,Paired,hit,192,46.3,5.70,192,12.1
+Sapphire Rapids,Paired,hit,256,46.6,5.73,256,12.1
+Sapphire Rapids,Paired,hit,320,46.5,5.72,320,12.1
+Sapphire Rapids,Paired,hit,384,46.0,5.66,384,12.1
+ThunderX2,Inline,hit,0,18.3,2.14,0,17.1
+ThunderX2,Inline,hit,4,30.3,3.55,4,17.1
+ThunderX2,Inline,hit,8,39.5,4.63,8,17.1
+ThunderX2,Inline,hit,16,43.0,5.04,16,17.1
+ThunderX2,Inline,hit,24,43.1,5.05,24,17.1
+ThunderX2,Inline,hit,32,43.1,5.05,32,17.1
+ThunderX2,Inline,hit,48,43.0,5.04,48,17.1
+ThunderX2,Inline,hit,64,43.0,5.03,64,17.1
+ThunderX2,Inline,hit,96,42.9,5.02,96,17.1
+ThunderX2,Inline,hit,128,42.6,4.99,128,17.1
+ThunderX2,Inline,hit,160,42.6,4.99,160,17.1
+ThunderX2,Inline,hit,192,42.7,4.99,192,17.1
+ThunderX2,Inline,hit,256,42.4,4.95,256,17.1
+ThunderX2,Inline,hit,320,42.3,4.95,320,17.1
+ThunderX2,Inline,hit,384,41.7,4.88,384,17.1
+ThunderX2,Inline,miss,0,10.2,1.19,0,17.1
+ThunderX2,Inline,miss,16,20.8,2.44,16,17.1
+ThunderX2,Inline,miss,32,21.0,2.46,32,17.1
+ThunderX2,Inline,miss,64,20.9,2.45,64,17.1
+ThunderX2,Inline,miss,128,20.8,2.44,128,17.1
+ThunderX2,Paired,hit,4,23.7,2.77,4,17.1
+ThunderX2,Paired,hit,8,32.1,3.75,8,17.1
+ThunderX2,Paired,hit,16,41.0,4.79,16,17.1
+ThunderX2,Paired,hit,24,42.6,4.98,24,17.1
+ThunderX2,Paired,hit,32,42.1,4.93,32,17.1
+ThunderX2,Paired,hit,48,41.8,4.89,48,17.1
+ThunderX2,Paired,hit,64,41.3,4.83,64,17.1
+ThunderX2,Paired,hit,96,40.8,4.78,96,17.1
+ThunderX2,Paired,hit,128,40.2,4.71,128,17.1
+ThunderX2,Paired,hit,160,39.1,4.57,160,17.1
+ThunderX2,Paired,hit,192,38.9,4.55,192,17.1
+ThunderX2,Paired,hit,256,39.3,4.60,256,17.1
+ThunderX2,Paired,hit,320,38.0,4.44,320,17.1
+ThunderX2,Paired,hit,384,37.6,4.40,384,17.1
+Neoverse N1,Inline,hit,0,22.2,2.22,0,9.5
+Neoverse N1,Inline,hit,4,33.8,3.38,4,9.5
+Neoverse N1,Inline,hit,8,49.1,4.91,8,9.5
+Neoverse N1,Inline,hit,16,65.7,6.57,16,9.5
+Neoverse N1,Inline,hit,24,71.5,7.15,24,9.5
+Neoverse N1,Inline,hit,32,73.5,7.35,32,9.5
+Neoverse N1,Inline,hit,48,75.9,7.59,48,9.5
+Neoverse N1,Inline,hit,64,73.1,7.31,64,9.5
+Neoverse N1,Inline,hit,96,69.5,6.95,96,9.5
+Neoverse N1,Inline,hit,128,66.1,6.61,128,9.5
+Neoverse N1,Inline,hit,160,63.7,6.37,160,9.5
+Neoverse N1,Inline,hit,192,62.6,6.26,192,9.5
+Neoverse N1,Inline,hit,256,59.6,5.96,256,9.5
+Neoverse N1,Inline,hit,320,57.4,5.74,320,9.5
+Neoverse N1,Inline,hit,384,55.4,5.54,384,9.5
+Neoverse N1,Inline,miss,0,11.1,1.11,0,9.5
+Neoverse N1,Inline,miss,16,30.0,3.00,16,9.5
+Neoverse N1,Inline,miss,32,35.4,3.54,32,9.5
+Neoverse N1,Inline,miss,64,33.6,3.36,64,9.5
+Neoverse N1,Inline,miss,128,31.6,3.16,128,9.5
+Neoverse N1,Paired,hit,4,25.8,2.58,4,9.5
+Neoverse N1,Paired,hit,8,36.3,3.63,8,9.5
+Neoverse N1,Paired,hit,16,49.1,4.91,16,9.5
+Neoverse N1,Paired,hit,24,55.7,5.57,24,9.5
+Neoverse N1,Paired,hit,32,57.7,5.77,32,9.5
+Neoverse N1,Paired,hit,48,59.2,5.92,48,9.5
+Neoverse N1,Paired,hit,64,58.8,5.88,64,9.5
+Neoverse N1,Paired,hit,96,56.4,5.64,96,9.5
+Neoverse N1,Paired,hit,128,54.6,5.46,128,9.5
+Neoverse N1,Paired,hit,160,53.0,5.30,160,9.5
+Neoverse N1,Paired,hit,192,51.7,5.17,192,9.5
+Neoverse N1,Paired,hit,256,49.7,4.97,256,9.5
+Neoverse N1,Paired,hit,320,47.8,4.78,320,9.5
+Neoverse N1,Paired,hit,384,46.1,4.61,384,9.5
+Neoverse V2,Inline,hit,0,35.7,7.72,0,40.1
+Neoverse V2,Inline,hit,4,39.8,8.59,4,40.1
+Neoverse V2,Inline,hit,8,53.7,11.59,8,40.1
+Neoverse V2,Inline,hit,16,72.7,15.69,16,40.1
+Neoverse V2,Inline,hit,24,100.1,21.62,24,40.1
+Neoverse V2,Inline,hit,32,114.5,24.73,32,40.1
+Neoverse V2,Inline,hit,48,139.2,30.07,48,40.1
+Neoverse V2,Inline,hit,64,144.8,31.28,64,40.1
+Neoverse V2,Inline,hit,96,145.4,31.40,96,40.1
+Neoverse V2,Inline,hit,128,145.9,31.51,128,40.1
+Neoverse V2,Inline,hit,160,146.0,31.54,160,40.1
+Neoverse V2,Inline,hit,192,145.6,31.44,192,40.1
+Neoverse V2,Inline,hit,256,145.7,31.47,256,40.1
+Neoverse V2,Inline,hit,320,145.5,31.43,320,40.1
+Neoverse V2,Inline,hit,384,145.1,31.35,384,40.1
+Neoverse V2,Inline,miss,0,16.8,3.63,0,40.1
+Neoverse V2,Inline,miss,16,39.8,8.60,16,40.1
+Neoverse V2,Inline,miss,32,53.7,11.60,32,40.1
+Neoverse V2,Inline,miss,64,54.0,11.66,64,40.1
+Neoverse V2,Inline,miss,128,54.0,11.67,128,40.1
+Neoverse V2,Paired,hit,4,29.9,6.47,4,40.1
+Neoverse V2,Paired,hit,8,37.2,8.05,8,40.1
+Neoverse V2,Paired,hit,16,52.2,11.29,16,40.1
+Neoverse V2,Paired,hit,24,67.1,14.49,24,40.1
+Neoverse V2,Paired,hit,32,77.1,16.66,32,40.1
+Neoverse V2,Paired,hit,48,101.1,21.84,48,40.1
+Neoverse V2,Paired,hit,64,118.2,25.53,64,40.1
+Neoverse V2,Paired,hit,96,128.4,27.73,96,40.1
+Neoverse V2,Paired,hit,128,126.4,27.30,128,40.1
+Neoverse V2,Paired,hit,160,120.1,25.93,160,40.1
+Neoverse V2,Paired,hit,192,119.2,25.76,192,40.1
+Neoverse V2,Paired,hit,256,117.8,25.45,256,40.1
+Neoverse V2,Paired,hit,320,106.7,23.04,320,40.1
+Neoverse V2,Paired,hit,384,97.5,21.05,384,40.1

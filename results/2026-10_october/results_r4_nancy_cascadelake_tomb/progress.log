@@ -1,0 +1,6 @@
+[2026-10-07 08:21:41] start nancy_cascadelake_tomb on gros-86.nancy.grid5000.fr steps=tomb
+[2026-10-07 08:21:51] tombstone_test (old trigger: HANG expected)
+[2026-10-07 08:22:32]   rc=0
+[2026-10-07 08:22:32] tombstone_test (new trigger: ok expected)
+[2026-10-07 08:22:33]   rc=0
+[2026-10-07 08:22:33] RUN_DONE

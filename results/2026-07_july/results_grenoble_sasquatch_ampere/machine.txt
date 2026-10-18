@@ -1,0 +1,11 @@
+# grenoble_sasquatch_ampere 2026-06-28T20:26:33Z
+Architecture:                            aarch64
+Thread(s) per core:                      1
+Core(s) per socket:                      80
+Socket(s):                               1
+NUMA node(s):                            1
+Model name:                              Neoverse-N1
+CPU max MHz:                             3000.0000
+NUMA node0 CPU(s):                       0-79
+MemTotal:       1053953388 kB
+g++=g++ (conda-forge gcc 13.4.0-19) 13.4.0

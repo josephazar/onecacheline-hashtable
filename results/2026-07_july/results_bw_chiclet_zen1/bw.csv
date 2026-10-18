@@ -1,0 +1,4 @@
+machine,mode,threads,gbs
+chiclet_zen1,1core,1,15.9
+chiclet_zen1,allcore,64,272.2
+chiclet_zen1,allrand,64,113.1

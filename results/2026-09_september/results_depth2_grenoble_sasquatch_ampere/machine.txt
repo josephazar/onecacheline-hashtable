@@ -1,0 +1,4 @@
+# grenoble_sasquatch_ampere 2026-09-23T12:50:41Z locality 2
+Architecture:                            aarch64
+Model name:                              Neoverse-N1
+CPU max MHz:                             3000.0000

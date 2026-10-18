@@ -1,0 +1,7 @@
+build: NEIGHBOR_HASH_SIMD_FIND off (scalar NH cells only)
+keys: N=2^16, key 0 present: no, values masked to 52 bits
+table Inline   bytes=2097152 slots=98304 keys=65536 load=0.6667
+table InlineF  bytes=2097152 slots=98304 keys=65536 load=0.6667
+table NH       bytes=2097168 slots=131072 keys=65536 load=0.5000 one_line_hit_share=0.9607 (sample 65536)
+table NH79     bytes=1327376 slots=82960 keys=65536 load=0.7900 one_line_hit_share=0.8729 (sample 65536)
+tables built: N=2^16

@@ -1,0 +1,4 @@
+machine,mode,threads,gbs
+lyon_grace,1core,1,21.5
+lyon_grace,allcore,72,689.8
+lyon_grace,allrand,72,279.3

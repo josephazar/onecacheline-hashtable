@@ -1,0 +1,4 @@
+chirop-3.lille.grid5000.fr
+Thu Sep 24 04:51:09 PM CEST 2026
+#ifndef FILTER_MODE
+#define FILTER_MODE 2   // défaut = fix à une multiplication (clés alignées 4 Ko)

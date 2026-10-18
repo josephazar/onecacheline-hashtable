@@ -1,0 +1,1 @@
+config=iot-registry N=2^26 requests=300000 reps=5 bmax=256 zipf=0.60 hit=0.80 kmed=8 ksig=1.0 timer=30 ns

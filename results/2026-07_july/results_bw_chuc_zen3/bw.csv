@@ -1,0 +1,4 @@
+machine,mode,threads,gbs
+chuc_zen3,1core,1,37.8
+chuc_zen3,allcore,64,649.2
+chuc_zen3,allrand,64,146.9

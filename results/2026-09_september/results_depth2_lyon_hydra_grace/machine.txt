@@ -1,0 +1,4 @@
+# lyon_hydra_grace 2026-09-23T12:55:10Z locality 2
+Architecture:                            aarch64
+Model name:                              Neoverse-V2
+CPU max MHz:                             3456.0000

@@ -1,0 +1,25 @@
+core,workload,campaign,host,cpu_max_mhz,boost,inline_engine,best_scalar_map,best_scalar,speedup
+Zen 3,hit,"July, main harness, L3 keep",chuc_zen3,2600.0000,n/a,106.5,boost,44.9,2.37
+Zen 3,hit,"Sept. 23, isolated harness, L3 keep",chuc-8.lille.grid5000.fr,3681.6399,enabled,72.0,boost,31.0,2.32
+Zen 3,hit,"Sept. 23, isolated harness, L1 keep",chuc-8.lille.grid5000.fr,3681.6399,enabled,72.6,boost,30.9,2.35
+Zen 3,hit,"Sept. 24, prod_prefetch harness, L1 keep",chuc-3.lille.grid5000.fr,2600.0000,enabled,102.88,boost,36.58,2.81
+Zen 3,miss,"July, main harness, L3 keep",chuc_zen3,2600.0000,n/a,49.9,boost,77.0,0.65
+Zen 3,miss,"Sept. 23, isolated harness, L3 keep",chuc-8.lille.grid5000.fr,3681.6399,enabled,35.5,boost,60.1,0.59
+Zen 3,miss,"Sept. 23, isolated harness, L1 keep",chuc-8.lille.grid5000.fr,3681.6399,enabled,35.2,boost,60.1,0.59
+Zen 3,miss,"Sept. 24, prod_prefetch harness, L1 keep",chuc-3.lille.grid5000.fr,2600.0000,enabled,49.23,boost,62.15,0.79
+Ice Lake,hit,"July, main harness, L3 keep",lille_chirop_icelake,3400.0000,n/a,90.2,boost,48.0,1.88
+Ice Lake,hit,"Sept. 23, isolated harness, L3 keep",chirop-3.lille.grid5000.fr,3400.0000,n/a,89.6,boost,48.1,1.86
+Ice Lake,hit,"Sept. 23, isolated harness, L1 keep",chirop-3.lille.grid5000.fr,3400.0000,n/a,94.9,boost,48.1,1.97
+Ice Lake,hit,"Sept. 24, prod_prefetch harness, L1 keep",chirop-1.lille.grid5000.fr,3400.0000,n/a,94.38,boost,43.39,2.18
+Ice Lake,miss,"July, main harness, L3 keep",lille_chirop_icelake,3400.0000,n/a,41.5,boost,90.3,0.46
+Ice Lake,miss,"Sept. 23, isolated harness, L3 keep",chirop-3.lille.grid5000.fr,3400.0000,n/a,41.3,boost,90.6,0.46
+Ice Lake,miss,"Sept. 23, isolated harness, L1 keep",chirop-3.lille.grid5000.fr,3400.0000,n/a,46.3,boost,90.5,0.51
+Ice Lake,miss,"Sept. 24, prod_prefetch harness, L1 keep",chirop-1.lille.grid5000.fr,3400.0000,n/a,46.91,boost,76.23,0.62
+Cascade Lake,hit,"July, main harness, L3 keep",nancy_gros_cascadelake,3900.0000,n/a,73.0,boost,34.3,2.13
+Cascade Lake,hit,"Sept. 23, isolated harness, L3 keep",gros-100.nancy.grid5000.fr,3900.0000,n/a,72.1,boost,33.5,2.15
+Cascade Lake,hit,"Sept. 23, isolated harness, L1 keep",gros-100.nancy.grid5000.fr,3900.0000,n/a,72.1,boost,33.7,2.14
+Cascade Lake,hit,"Sept. 24, prod_prefetch harness, L1 keep",gros-80.nancy.grid5000.fr,3900.0000,n/a,75.16,boost,32.5,2.31
+Cascade Lake,miss,"July, main harness, L3 keep",nancy_gros_cascadelake,3900.0000,n/a,37.8,boost,67.1,0.56
+Cascade Lake,miss,"Sept. 23, isolated harness, L3 keep",gros-100.nancy.grid5000.fr,3900.0000,n/a,37.6,boost,64.5,0.58
+Cascade Lake,miss,"Sept. 23, isolated harness, L1 keep",gros-100.nancy.grid5000.fr,3900.0000,n/a,43.4,boost,63.3,0.69
+Cascade Lake,miss,"Sept. 24, prod_prefetch harness, L1 keep",gros-80.nancy.grid5000.fr,3900.0000,n/a,45.0,boost,57.4,0.78

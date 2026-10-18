@@ -1,0 +1,15 @@
+hash,log2n,mops
+fibo,14,114.2
+fibo,16,110.1
+fibo,18,109.2
+fibo,20,105.4
+fibo,22,90.9
+fibo,25,75.4
+fibo,27,72.4
+strong,14,98.6
+strong,16,98.0
+strong,18,97.3
+strong,20,94.4
+strong,22,85.8
+strong,25,70.2
+strong,27,67.5

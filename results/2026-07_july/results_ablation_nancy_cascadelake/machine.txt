@@ -1,0 +1,3 @@
+Linux gros-53.nancy.grid5000.fr 5.10.0-38-amd64 #1 SMP Debian 5.10.249-1 (2026-02-10) x86_64 GNU/Linux
+Architecture:                            x86_64
+Model name:                              Intel(R) Xeon(R) Gold 5220 CPU @ 2.20GHz

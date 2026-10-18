@@ -1,0 +1,4 @@
+Linux chirop-4.lille.grid5000.fr 5.10.0-38-amd64 #1 SMP Debian 5.10.249-1 (2026-02-10) x86_64 GNU/Linux
+Architecture:                            x86_64
+CPU(s):                                  128
+Model name:                              Intel(R) Xeon(R) Platinum 8358 CPU @ 2.60GHz

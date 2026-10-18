@@ -1,0 +1,13 @@
+machine,log2n,mix,variant,mops,ci_lo,ci_hi
+chuc_zen3,27,b05,v4,192.7,192.4,193.0
+chuc_zen3,27,a50,v4,130.6,130.3,131.0
+chuc_zen3,27,u100,v4,197.1,196.5,197.2
+chuc_zen3,27,b05,abseil,34.7,33.6,37.6
+chuc_zen3,27,a50,abseil,32.6,32.6,36.5
+chuc_zen3,27,u100,abseil,35.9,35.2,36.3
+chuc_zen3,27,b05,boost,50.4,50.3,54.8
+chuc_zen3,27,a50,boost,45.1,45.0,49.7
+chuc_zen3,27,u100,boost,43.1,41.3,47.5
+chuc_zen3,27,b05,ankerl,34.0,33.9,36.5
+chuc_zen3,27,a50,ankerl,32.3,32.1,34.4
+chuc_zen3,27,u100,ankerl,33.7,33.4,36.9

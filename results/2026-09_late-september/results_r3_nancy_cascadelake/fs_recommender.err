@@ -1,0 +1,1 @@
+config=recommender N=2^26 requests=300000 reps=5 bmax=256 zipf=0.99 hit=0.95 kmed=32 ksig=1.0 timer=21 ns

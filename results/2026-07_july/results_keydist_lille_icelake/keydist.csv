@@ -1,0 +1,9 @@
+hash,dist,hit_mops,miss_mops,avg_probelen
+fibo,random,93.7,42.6,1.236
+fibo,seq,130.1,131.5,1.000
+fibo,aligned,129.4,130.9,1.000
+fibo,struct,127.6,123.2,1.018
+strong,random,88.6,41.3,1.233
+strong,seq,89.0,41.3,1.233
+strong,aligned,89.0,41.4,1.233
+strong,struct,88.6,41.3,1.234

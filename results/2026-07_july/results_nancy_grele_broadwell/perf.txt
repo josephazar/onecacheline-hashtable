@@ -1,0 +1,2 @@
+# perf_event_paranoid=3
+# perf blocked (paranoid=3 > 2); counters skipped on this node

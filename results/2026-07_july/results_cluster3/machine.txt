@@ -1,0 +1,17 @@
+# machine = cluster5  date = 2026-06-27T06:24:39Z
+Architecture:                            x86_64
+Model name:                              Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
+Thread(s) per core:                      2
+Core(s) per socket:                      8
+Socket(s):                               1
+CPU max MHz:                             5000.0000
+L3 cache:                                16 MiB (1 instance)
+NUMA node(s):                            1
+NUMA node0 CPU(s):                       0-15
+AVX: avx2 
+MemTotal:       65772784 kB
+available: 1 nodes (0)
+node 0 cpus: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+node 0 size: 64231 MB
+g++ = g++ (conda-forge gcc 13.4.0-19) 13.4.0
+perf_event_paranoid = 4

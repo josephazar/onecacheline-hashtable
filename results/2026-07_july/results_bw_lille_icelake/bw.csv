@@ -1,0 +1,4 @@
+machine,mode,threads,gbs
+lille_icelake,1core,1,16.8
+lille_icelake,allcore,128,1369.1
+lille_icelake,allrand,128,311.3

@@ -1,0 +1,13 @@
+machine,log2n,mix,variant,mops,ci_lo,ci_hi
+nancy_cascadelake,27,b05,v4,124.7,122.7,125.3
+nancy_cascadelake,27,a50,v4,94.4,93.9,94.6
+nancy_cascadelake,27,u100,v4,124.2,122.6,124.5
+nancy_cascadelake,27,b05,abseil,32.3,32.2,32.6
+nancy_cascadelake,27,a50,abseil,30.3,30.3,30.4
+nancy_cascadelake,27,u100,abseil,30.5,30.5,30.5
+nancy_cascadelake,27,b05,boost,44.5,44.2,44.5
+nancy_cascadelake,27,a50,boost,39.8,39.7,39.8
+nancy_cascadelake,27,u100,boost,39.4,39.3,39.5
+nancy_cascadelake,27,b05,ankerl,31.0,30.8,31.2
+nancy_cascadelake,27,a50,ankerl,28.3,28.3,28.3
+nancy_cascadelake,27,u100,ankerl,27.6,27.6,27.6

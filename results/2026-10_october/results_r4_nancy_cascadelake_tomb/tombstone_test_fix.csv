@@ -1,0 +1,12 @@
+test,table,ops,status,used,live,slots,rebuilds,grows
+trace_find_sync,Inline,12,ok,9,8,12,1,0
+trace_find_batch,Inline,12,ok,9,8,12,1,0
+trace_live_keys,Inline,12,ok,9,8,12,1,0
+trace_find_sync,Inline+F,12,ok,9,8,12,1,0
+trace_find_batch,Inline+F,12,ok,9,8,12,1,0
+trace_live_keys,Inline+F,12,ok,9,8,12,1,0
+churn,Detached,2000000,ok,11248,8192,14336,91,0
+churn,Inline,2000000,ok,9687,8192,12288,509,0
+churn,Inline+F,2000000,ok,9687,8192,12288,509,0
+churn,Paired,2000000,ok,9596,8192,14336,91,0
+churn,SoA,2000000,ok,11610,8192,16384,0,0

@@ -1,0 +1,3 @@
+Linux chuc-8.lille.grid5000.fr 5.10.0-38-amd64 #1 SMP Debian 5.10.249-1 (2026-02-10) x86_64 GNU/Linux
+Architecture:                            x86_64
+Model name:                              AMD EPYC 7513 32-Core Processor

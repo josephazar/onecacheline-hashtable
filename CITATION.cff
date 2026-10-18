@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "One cache line, many misses in flight: code and measurements"
+authors:
+  - family-names: Couturier
+    given-names: Raphaël
+  - family-names: Azar
+    given-names: Joseph
+license: MIT
+preferred-citation:
+  type: article
+  title: "One Cache Line, Many Misses in Flight: A Chunked SIMD Hash Table with Coroutine-Free Memory-Access Overlap, and What It Takes to Measure One"
+  authors:
+    - family-names: Couturier
+      given-names: Raphaël
+    - family-names: Azar
+      given-names: Joseph
+  journal: "Parallel Computing"
+  year: 2026
+  notes: "Submitted."

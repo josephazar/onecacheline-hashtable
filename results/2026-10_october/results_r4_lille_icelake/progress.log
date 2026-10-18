@@ -1,0 +1,8 @@
+[2026-10-06 20:08:15] start lille_icelake on chirop-1.lille.grid5000.fr steps=env,nh,hab
+[2026-10-06 20:08:17] env report written
+[2026-10-06 20:08:22] nh build rc=0 (1 SIMD flag lines)
+[2026-10-06 20:08:22] nh_compare
+[2026-10-06 20:09:34]   rc=0 0 validation failures
+[2026-10-06 20:09:38] harness_ab
+[2026-10-06 20:10:44]   rc=0
+[2026-10-06 20:10:44] RUN_DONE

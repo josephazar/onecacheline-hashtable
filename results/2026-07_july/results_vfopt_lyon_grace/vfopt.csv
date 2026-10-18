@@ -1,0 +1,20 @@
+# correctness v0: false_neg=0 wrong_hit=0
+# correctness vb: false_neg=0 wrong_hit=0
+# correctness vh: false_neg=0 wrong_hit=0
+# correctness vc: false_neg=0 wrong_hit=0
+machine,log2n,workload,variant,mops,ci_lo,ci_hi
+lyon_grace,27,hit,Inline,92.6,92.1,92.7
+lyon_grace,27,hit,vf_v0,81.4,78.8,82.4
+lyon_grace,27,hit,vf_b,81.0,80.6,81.0
+lyon_grace,27,hit,vf_h,79.8,78.7,80.2
+lyon_grace,27,hit,vf_c,79.1,78.3,79.6
+lyon_grace,27,miss,Inline,47.1,46.7,48.4
+lyon_grace,27,miss,vf_v0,78.5,75.4,79.7
+lyon_grace,27,miss,vf_b,79.1,78.1,79.2
+lyon_grace,27,miss,vf_h,77.0,76.5,77.8
+lyon_grace,27,miss,vf_c,68.0,66.8,68.5
+lyon_grace,27,zipf,Inline,138.1,137.7,139.4
+lyon_grace,27,zipf,vf_v0,126.8,126.7,127.1
+lyon_grace,27,zipf,vf_b,126.6,126.4,126.7
+lyon_grace,27,zipf,vf_h,121.9,120.8,122.4
+lyon_grace,27,zipf,vf_c,124.9,122.5,125.1

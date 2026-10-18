@@ -1,0 +1,3 @@
+prod L1=14 L3=4
+perf L1=18 L3=0
+fs L1=8 L3=2

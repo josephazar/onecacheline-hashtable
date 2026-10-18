@@ -1,0 +1,2 @@
+aligned: 5 CacheAlignedAlloc refs
+orig: 0 CacheAlignedAlloc refs

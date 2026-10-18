@@ -1,0 +1,20 @@
+# correctness v0: false_neg=0 wrong_hit=0
+# correctness vb: false_neg=0 wrong_hit=0
+# correctness vh: false_neg=0 wrong_hit=0
+# correctness vc: false_neg=0 wrong_hit=0
+machine,log2n,workload,variant,mops,ci_lo,ci_hi
+chuc_zen3,27,hit,Inline,105.5,104.9,105.8
+chuc_zen3,27,hit,vf_v0,101.6,101.0,102.4
+chuc_zen3,27,hit,vf_b,103.0,102.9,103.1
+chuc_zen3,27,hit,vf_h,100.6,100.5,100.7
+chuc_zen3,27,hit,vf_c,101.3,101.2,101.4
+chuc_zen3,27,miss,Inline,50.1,49.9,50.1
+chuc_zen3,27,miss,vf_v0,108.2,107.2,109.0
+chuc_zen3,27,miss,vf_b,109.5,109.5,109.6
+chuc_zen3,27,miss,vf_h,106.9,104.5,108.3
+chuc_zen3,27,miss,vf_c,105.1,103.4,105.3
+chuc_zen3,27,zipf,Inline,242.4,242.2,242.6
+chuc_zen3,27,zipf,vf_v0,220.6,213.6,227.1
+chuc_zen3,27,zipf,vf_b,218.5,218.1,218.6
+chuc_zen3,27,zipf,vf_h,236.2,236.1,236.4
+chuc_zen3,27,zipf,vf_c,235.2,235.0,235.5

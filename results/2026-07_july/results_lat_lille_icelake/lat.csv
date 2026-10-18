@@ -1,0 +1,14 @@
+kind,label,mops,ns_per_lookup
+batch,1,11.2,89.6
+batch,2,17.7,56.5
+batch,4,25.1,39.8
+batch,8,30.2,33.1
+batch,16,38.3,26.1
+batch,32,49.4,20.2
+batch,64,60.0,16.7
+batch,128,71.3,14.0
+batch,256,79.7,12.6
+point,Inline-sync,48.5,20.6
+point,F14,39.3,25.5
+point,abseil,41.0,24.4
+point,boost,41.9,23.9

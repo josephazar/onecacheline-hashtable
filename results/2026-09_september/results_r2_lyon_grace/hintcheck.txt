@@ -1,0 +1,8 @@
+orig strong=0 L1=8 L3=6
+orig strong=1 L1=8 L3=6
+pf3 strong=0 L1=14 L3=0
+pf3 strong=1 L1=14 L3=0
+iso L1=8 L3=29
+iso_pf3 L1=34 L3=3
+pf2 strong=0 L2=14 L1=0 L3=0
+pf2 strong=1 L2=14 L1=0 L3=0

@@ -1,0 +1,21 @@
+[2026-09-24 09:39:30] start nancy_cascadelake on gros-80.nancy.grid5000.fr steps=env,prod,perf,ovf,ycsb,fs hint=pf3
+[2026-09-24 09:39:31] env report written
+[2026-09-24 09:39:37] prod_prefetch
+[2026-09-24 09:40:48]   rc=0
+[2026-09-24 09:40:48] perf_event_paranoid=3
+[2026-09-24 09:40:51]   after sudo-g5k: 1
+[2026-09-24 09:40:54] abl_perf log2n=16
+[2026-09-24 09:40:55]   rc=0 hardware counters: available
+[2026-09-24 09:40:55] abl_perf log2n=27
+[2026-09-24 09:41:19]   rc=0 hardware counters: available
+[2026-09-24 09:41:20] overflow_count
+[2026-09-24 09:41:24]   rc=0
+[2026-09-24 09:41:26] ycsb_check
+[2026-09-24 09:41:46]   rc=0
+[2026-09-24 09:41:50] featurestore recommender
+[2026-09-24 09:43:25]   rc=0
+[2026-09-24 09:43:25] featurestore iot-registry
+[2026-09-24 09:44:18]   rc=0
+[2026-09-24 09:44:18] featurestore batch-retrieval
+[2026-09-24 09:48:32]   rc=0
+[2026-09-24 09:48:32] RUN_DONE

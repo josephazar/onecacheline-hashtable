@@ -1,0 +1,4 @@
+machine,mode,threads,gbs
+nancy_cascadelake,1core,1,15.4
+nancy_cascadelake,allcore,36,438.8
+nancy_cascadelake,allrand,36,83.7

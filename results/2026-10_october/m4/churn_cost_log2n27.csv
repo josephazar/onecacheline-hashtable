@@ -1,0 +1,5 @@
+table,log2n,pairs,ns_per_pair,rebuilds,grows,pairs_per_rebuild,rebuild_ms,used_frac_end,live_frac
+Inline,27,268435456,109.3,4,0,67108864,1664,0.700,0.667
+Inline+F,27,268435456,120.6,4,0,67108864,1449,0.700,0.667
+Paired,27,268435456,58.5,0,0,0,1277,0.757,0.571
+Detached,27,268435456,67.0,0,0,0,1263,0.757,0.571

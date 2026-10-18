@@ -1,0 +1,13 @@
+[2026-10-06 20:09:13] start nancy_cascadelake on gros-10.nancy.grid5000.fr steps=env,nh,hab,tomb,cap,churn
+[2026-10-06 20:09:16] env report written
+[2026-10-06 20:09:25] nh build rc=0 (1 SIMD flag lines)
+[2026-10-06 20:09:25] nh_compare
+[2026-10-06 20:10:49]   rc=0 0 validation failures
+[2026-10-06 20:10:56] harness_ab
+[2026-10-06 20:12:14]   rc=0
+[2026-10-06 20:12:20] F14 link failed, capacity without F14
+[2026-10-06 20:12:23] capacity_probe
+[2026-10-06 20:13:10]   rc=0
+[2026-10-06 20:13:13] churn_cost
+[2026-10-06 20:17:33]   rc=0
+[2026-10-06 20:17:33] RUN_DONE

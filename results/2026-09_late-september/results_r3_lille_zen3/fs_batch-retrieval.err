@@ -1,0 +1,1 @@
+config=batch-retrieval N=2^26 requests=300000 reps=5 bmax=256 zipf=0.99 hit=1.00 kmed=128 ksig=1.0 timer=30 ns

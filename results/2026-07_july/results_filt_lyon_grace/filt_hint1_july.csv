@@ -1,0 +1,17 @@
+# correctness: present=5000000 false_neg=0 | absent=5000000 wrong_hit=0
+table,workload,mops
+Inline+F,hit,82.7
+Inline,hit,92.4
+Paired,hit,74.3
+boost,hit,28.5
+abseil,hit,24.5
+Inline+F,miss,78.3
+Inline,miss,47.5
+Paired,miss,86.5
+boost,miss,57.1
+abseil,miss,52.0
+Inline+F,zipf,127.4
+Inline,zipf,145.3
+Paired,zipf,88.0
+boost,zipf,44.0
+abseil,zipf,30.6

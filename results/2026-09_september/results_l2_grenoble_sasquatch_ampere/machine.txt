@@ -1,0 +1,9 @@
+# grenoble_sasquatch_ampere 2026-09-23T09:16:13Z prefetch locality 2
+Architecture:                            aarch64
+Model name:                              Neoverse-N1
+Core(s) per socket:                      80
+Socket(s):                               1
+CPU max MHz:                             3000.0000
+NUMA node(s):                            1
+NUMA node0 CPU(s):                       0-79
+g++=g++ (conda-forge gcc 13.4.0-19) 13.4.0

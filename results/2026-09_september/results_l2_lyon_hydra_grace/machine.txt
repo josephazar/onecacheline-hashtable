@@ -1,0 +1,17 @@
+# lyon_hydra_grace 2026-09-23T09:15:27Z prefetch locality 2
+Architecture:                            aarch64
+Model name:                              Neoverse-V2
+Core(s) per socket:                      72
+Socket(s):                               1
+CPU max MHz:                             3474.0000
+L3 cache:                                114 MiB (1 instance)
+NUMA node(s):                            8
+NUMA node0 CPU(s):                       0-71
+NUMA node2 CPU(s):                       
+NUMA node3 CPU(s):                       
+NUMA node4 CPU(s):                       
+NUMA node5 CPU(s):                       
+NUMA node6 CPU(s):                       
+NUMA node7 CPU(s):                       
+NUMA node8 CPU(s):                       
+g++=g++ (conda-forge gcc 13.4.0-19) 13.4.0

@@ -1,0 +1,15 @@
+=== v5 : sensibilite a la profondeur AMAC, N=2^27 (hit, mediane/5) ===
+DEPTH= 4 :   40.8
+DEPTH= 8 :   50.8
+DEPTH=16 :   68.2
+DEPTH=24 :   80.9
+DEPTH=32 :   89.2
+DEPTH=48 :  103.7
+DEPTH=64 :  132.5
+DEPTH=96 :  141.0
+
+=== Insertion depuis vide, N=2^27 (Mkeys/s, mediane/5) ===
+v5      :   22.3
+abseil  :   15.7
+boost   :   21.3
+ankerl  :   11.7

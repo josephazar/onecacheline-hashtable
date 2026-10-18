@@ -1,0 +1,13 @@
+machine,log2n,mix,variant,mops,ci_lo,ci_hi
+chiclet_zen1,27,b05,v4,139.7,139.6,140.0
+chiclet_zen1,27,a50,v4,80.9,80.7,81.0
+chiclet_zen1,27,u100,v4,97.1,97.0,97.2
+chiclet_zen1,27,b05,abseil,27.5,27.5,27.8
+chiclet_zen1,27,a50,abseil,20.1,20.1,20.1
+chiclet_zen1,27,u100,abseil,13.5,13.5,13.5
+chiclet_zen1,27,b05,boost,36.0,35.9,36.1
+chiclet_zen1,27,a50,boost,22.6,22.6,22.6
+chiclet_zen1,27,u100,boost,14.2,14.2,14.3
+chiclet_zen1,27,b05,ankerl,26.6,26.6,26.6
+chiclet_zen1,27,a50,ankerl,18.3,18.3,18.4
+chiclet_zen1,27,u100,ankerl,12.7,12.7,12.7

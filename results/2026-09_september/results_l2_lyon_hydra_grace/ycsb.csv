@@ -1,0 +1,13 @@
+machine,log2n,mix,variant,mops,ci_lo,ci_hi
+lyon_hydra_grace,27,b05,v4,184.6,183.3,185.4
+lyon_hydra_grace,27,a50,v4,138.5,135.7,139.6
+lyon_hydra_grace,27,u100,v4,205.2,204.7,205.6
+lyon_hydra_grace,27,b05,abseil,30.1,29.9,30.5
+lyon_hydra_grace,27,a50,abseil,28.4,28.3,28.6
+lyon_hydra_grace,27,u100,abseil,32.5,32.1,33.0
+lyon_hydra_grace,27,b05,boost,42.6,42.2,43.2
+lyon_hydra_grace,27,a50,boost,42.0,41.5,42.5
+lyon_hydra_grace,27,u100,boost,43.5,42.8,43.8
+lyon_hydra_grace,27,b05,ankerl,37.0,34.7,38.5
+lyon_hydra_grace,27,a50,ankerl,37.5,37.2,38.3
+lyon_hydra_grace,27,u100,ankerl,38.5,38.3,39.1

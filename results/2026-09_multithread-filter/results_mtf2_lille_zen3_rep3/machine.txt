@@ -1,0 +1,4 @@
+chuc-2.lille.grid5000.fr
+Mon Sep 28 08:12:19 AM CEST 2026
+#ifndef FILTER_MODE
+#define FILTER_MODE 2   // défaut = fix à une multiplication (clés alignées 4 Ko)

@@ -1,0 +1,21 @@
+[2026-09-24 17:32:22] start lyon_grace on hydra-4.lyon.grid5000.fr steps=env,prod,perf,ovf,ycsb,fs hint=pf2
+[2026-09-24 17:32:23] env report written
+[2026-09-24 17:32:28] prod_prefetch
+[2026-09-24 17:33:46]   rc=0
+[2026-09-24 17:33:46] perf_event_paranoid=3
+[2026-09-24 17:33:47]   after sudo-g5k: 1
+[2026-09-24 17:33:49] abl_perf log2n=16
+[2026-09-24 17:33:50]   rc=0 hardware counters: available
+[2026-09-24 17:33:50] abl_perf log2n=27
+[2026-09-24 17:34:04]   rc=0 hardware counters: available
+[2026-09-24 17:34:05] overflow_count
+[2026-09-24 17:34:08]   rc=0
+[2026-09-24 17:34:09] ycsb_check
+[2026-09-24 17:34:32]   rc=0
+[2026-09-24 17:34:36] featurestore recommender
+[2026-09-24 17:36:15]   rc=0
+[2026-09-24 17:36:15] featurestore iot-registry
+[2026-09-24 17:37:13]   rc=0
+[2026-09-24 17:37:13] featurestore batch-retrieval
+[2026-09-24 17:41:25]   rc=0
+[2026-09-24 17:41:25] RUN_DONE

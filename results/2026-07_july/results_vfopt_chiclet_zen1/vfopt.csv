@@ -1,0 +1,20 @@
+# correctness v0: false_neg=0 wrong_hit=0
+# correctness vb: false_neg=0 wrong_hit=0
+# correctness vh: false_neg=0 wrong_hit=0
+# correctness vc: false_neg=0 wrong_hit=0
+machine,log2n,workload,variant,mops,ci_lo,ci_hi
+chiclet_zen1,27,hit,Inline,77.1,77.1,77.2
+chiclet_zen1,27,hit,vf_v0,73.8,73.8,73.8
+chiclet_zen1,27,hit,vf_b,73.3,73.3,73.4
+chiclet_zen1,27,hit,vf_h,73.3,73.3,73.4
+chiclet_zen1,27,hit,vf_c,72.7,72.6,72.7
+chiclet_zen1,27,miss,Inline,37.5,37.4,37.5
+chiclet_zen1,27,miss,vf_v0,73.1,73.0,73.1
+chiclet_zen1,27,miss,vf_b,73.7,73.7,74.1
+chiclet_zen1,27,miss,vf_h,72.6,72.5,72.6
+chiclet_zen1,27,miss,vf_c,70.6,70.6,70.7
+chiclet_zen1,27,zipf,Inline,144.0,143.8,144.2
+chiclet_zen1,27,zipf,vf_v0,139.0,138.9,139.3
+chiclet_zen1,27,zipf,vf_b,138.8,138.6,139.0
+chiclet_zen1,27,zipf,vf_h,139.2,139.0,139.5
+chiclet_zen1,27,zipf,vf_c,137.7,137.5,137.9

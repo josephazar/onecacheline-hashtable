@@ -1,0 +1,12 @@
+[2026-09-24 14:31:18] start nancy_cascadelake on gros-86.nancy.grid5000.fr paranoid=1
+[2026-09-24 14:31:22] ablation2 aligned strong=0
+[2026-09-24 14:32:12]   rc=0
+[2026-09-24 14:32:14] ablation2 aligned strong=1
+[2026-09-24 14:33:04]   rc=0
+[2026-09-24 14:33:07] abl_perf aligned log2n=16
+[2026-09-24 14:33:08]   rc=0 hardware counters: available
+[2026-09-24 14:33:08] abl_perf aligned log2n=27
+[2026-09-24 14:33:31]   rc=0 hardware counters: available
+[2026-09-24 14:33:34] ablation2 orig strong=0
+[2026-09-24 14:34:26]   rc=0
+[2026-09-24 14:34:26] RUN_DONE

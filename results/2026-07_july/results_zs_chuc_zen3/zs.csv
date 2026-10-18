@@ -1,0 +1,17 @@
+machine,log2n,s,variant,mops,ci_lo,ci_hi
+chuc_zen3,27,0.50,v4,119.4,119.2,119.9
+chuc_zen3,27,0.75,v4,139.2,137.2,139.8
+chuc_zen3,27,0.99,v4,221.0,220.6,234.9
+chuc_zen3,27,1.25,v4,318.8,310.1,320.7
+chuc_zen3,27,0.50,abseil,33.4,33.2,36.2
+chuc_zen3,27,0.75,abseil,34.0,33.6,37.1
+chuc_zen3,27,0.99,abseil,40.2,39.8,42.7
+chuc_zen3,27,1.25,abseil,108.2,106.0,111.4
+chuc_zen3,27,0.50,boost,37.9,37.5,42.0
+chuc_zen3,27,0.75,boost,40.9,40.5,42.4
+chuc_zen3,27,0.99,boost,56.8,56.7,61.5
+chuc_zen3,27,1.25,boost,183.3,172.8,188.3
+chuc_zen3,27,0.50,ankerl,38.1,37.9,42.4
+chuc_zen3,27,0.75,ankerl,39.4,39.1,43.6
+chuc_zen3,27,0.99,ankerl,46.2,45.5,49.6
+chuc_zen3,27,1.25,ankerl,83.7,81.1,87.1

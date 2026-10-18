@@ -1,0 +1,20 @@
+# correctness v0: false_neg=0 wrong_hit=0
+# correctness vb: false_neg=0 wrong_hit=0
+# correctness vh: false_neg=0 wrong_hit=0
+# correctness vc: false_neg=0 wrong_hit=0
+machine,log2n,workload,variant,mops,ci_lo,ci_hi
+lille_icelake,27,hit,Inline,93.6,93.2,93.8
+lille_icelake,27,hit,vf_v0,87.5,87.5,87.6
+lille_icelake,27,hit,vf_b,87.5,87.4,87.5
+lille_icelake,27,hit,vf_h,85.9,85.6,86.0
+lille_icelake,27,hit,vf_c,86.4,86.4,86.5
+lille_icelake,27,miss,Inline,41.8,41.8,41.9
+lille_icelake,27,miss,vf_v0,84.5,84.1,84.8
+lille_icelake,27,miss,vf_b,84.4,84.3,84.4
+lille_icelake,27,miss,vf_h,84.6,84.5,84.7
+lille_icelake,27,miss,vf_c,81.9,81.8,82.0
+lille_icelake,27,zipf,Inline,170.9,169.2,171.3
+lille_icelake,27,zipf,vf_v0,169.2,167.7,169.9
+lille_icelake,27,zipf,vf_b,170.4,170.4,170.7
+lille_icelake,27,zipf,vf_h,166.3,166.1,166.5
+lille_icelake,27,zipf,vf_c,171.1,170.7,171.3

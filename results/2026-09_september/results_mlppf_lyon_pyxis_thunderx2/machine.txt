@@ -1,0 +1,4 @@
+# lyon_pyxis_thunderx2 2026-09-23T13:17:20Z
+Architecture:                            aarch64
+Model name:                              ThunderX2-99xx
+L3 cache:                                64 MiB (2 instances)

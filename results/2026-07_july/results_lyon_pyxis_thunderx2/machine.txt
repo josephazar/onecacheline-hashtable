@@ -1,0 +1,13 @@
+# lyon_pyxis_thunderx2 2026-06-29T04:17:52Z
+Architecture:                            aarch64
+Thread(s) per core:                      4
+Core(s) per socket:                      32
+Socket(s):                               2
+NUMA node(s):                            2
+Model name:                              ThunderX2 99xx
+CPU max MHz:                             2200.0000
+L3 cache:                                64 MiB
+NUMA node0 CPU(s):                       0-127
+NUMA node1 CPU(s):                       128-255
+MemTotal:       263485952 kB
+g++=g++ (conda-forge gcc 13.4.0-19) 13.4.0

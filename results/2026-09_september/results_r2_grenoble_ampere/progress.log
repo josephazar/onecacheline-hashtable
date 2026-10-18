@@ -1,0 +1,21 @@
+[2026-09-22 16:12:03] start grenoble_ampere on sasquatch-2.grenoble.grid5000.fr steps=abl,sweep,iso,lat
+[2026-09-22 16:12:08] selftest: SIMD_SELFTEST_OK
+[2026-09-22 16:12:15] ablation2 hint=orig strong=0
+[2026-09-22 16:13:02]   rc=0
+[2026-09-22 16:13:06] ablation2 hint=orig strong=1
+[2026-09-22 16:13:53]   rc=0
+[2026-09-22 16:13:56] ablation2 hint=pf3 strong=0
+[2026-09-22 16:14:41]   rc=0
+[2026-09-22 16:14:44] ablation2 hint=pf3 strong=1
+[2026-09-22 16:15:29]   rc=0
+[2026-09-22 16:15:33] prefetch_sweep
+[2026-09-22 16:16:42]   rc=0
+[2026-09-22 16:17:02] iso
+[2026-09-22 16:18:37]   rc=0
+[2026-09-22 16:18:47] iso_pf3
+[2026-09-22 16:20:19]   rc=0
+[2026-09-22 16:20:26] lat2 orig
+[2026-09-22 16:21:08]   rc=0
+[2026-09-22 16:21:14] lat2 pf3
+[2026-09-22 16:21:56]   rc=0
+[2026-09-22 16:21:56] RUN_DONE

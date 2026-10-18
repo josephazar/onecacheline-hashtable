@@ -1,0 +1,12 @@
+[2026-09-24 14:31:36] start lille_icelake on chirop-4.lille.grid5000.fr paranoid=1
+[2026-09-24 14:31:39] ablation2 aligned strong=0
+[2026-09-24 14:32:20]   rc=0
+[2026-09-24 14:32:22] ablation2 aligned strong=1
+[2026-09-24 14:33:05]   rc=0
+[2026-09-24 14:33:07] abl_perf aligned log2n=16
+[2026-09-24 14:33:09]   rc=0 hardware counters: available
+[2026-09-24 14:33:09] abl_perf aligned log2n=27
+[2026-09-24 14:33:28]   rc=0 hardware counters: available
+[2026-09-24 14:33:30] ablation2 orig strong=0
+[2026-09-24 14:34:14]   rc=0
+[2026-09-24 14:34:14] RUN_DONE
